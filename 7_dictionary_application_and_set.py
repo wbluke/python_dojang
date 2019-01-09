@@ -187,3 +187,5 @@ b = a.copy()
 a = {i for i in 'pineapple' if i not in 'apl'}  # {'e', 'i', 'n'}
 
 
+
+
